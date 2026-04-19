@@ -102,3 +102,11 @@ span {
         font-size: 22px;
     }
 }
+
+.error {
+    color: red;
+    font-style: italic;
+    font-size: 12px;
+    display: block;
+    margin-top: 4px;
+}
